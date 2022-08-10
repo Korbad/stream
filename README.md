@@ -7,3 +7,4 @@ https://www.youtube.com/watch?v=IHZwWFHWa-w
 
 https://www.youtube.com/watch?v=tIeHLnjs5U8&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi&index=4
 
+breadth-first learning approach (black-boxing) https://www.youtube.com/watch?v=RDzsrmMl48I
